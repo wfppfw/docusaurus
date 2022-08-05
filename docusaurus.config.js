@@ -29,6 +29,10 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    // '@docusaurus/plugin-content-pages',
+  ],
+
   presets: [
     [
       'classic',
