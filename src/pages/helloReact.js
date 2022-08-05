@@ -18,7 +18,6 @@ function Hello(){
             <code>
             yarn add docusaurus/plugin-content-pages 
             </code>
-
             <br></br>
             添加配置
             <code>
