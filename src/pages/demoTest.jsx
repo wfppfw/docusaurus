@@ -26,7 +26,6 @@ function Demo(){
         axios({
             url:noticeUrl,
             method:'get',
-
         }).then((res)=>{
             setCityName(res);
             console.log(res)
